@@ -17,4 +17,4 @@ Output ground true
 <div align=center><img width="256" height="256" src="https://github.com/zyy2929/pix2pix_results/blob/main/training/unet_256/web/images/epoch500_fake_B.png"/></div>
 Output prediction
 
-Training results to be added later...
+To be added later
